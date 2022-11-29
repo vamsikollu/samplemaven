@@ -1,0 +1,2 @@
+# samplemaven
+this is  a sample project
